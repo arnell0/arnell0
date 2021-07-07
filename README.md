@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Jonsson</h1>
 <h3 align="center">An allround developer from Sweden</h3>
 
-- 🔭 I’m currently working on [Åre MS](https://arnell0.github.io/arecms)
+- 🔭 I’m currently working on [Åre CMS](https://arnell0.github.io/arecms)
 
 - 🌱 I’m currently learning **TypeScript**
 
