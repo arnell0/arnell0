@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mailtojonsson](https://medium.com/@mailtojonsson)
 
-- 💬 Ask me about **React, Python, pipelines.**
+- 💬 Ask me about **React, Web or the future of smart buildings.**
 
 - 📫 How to reach me **mailtojonsson@gmail.com**
 
