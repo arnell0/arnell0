@@ -23,13 +23,9 @@ My <a href="https://drive.google.com/file/d/1ua7-e9ZdjRKdYUvICJpR7Ci5Dh9IeGjs/vi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
----
-
 # Projects
 
 ## Åre CMS
-
---
 
 ## Planner
 
@@ -49,8 +45,6 @@ Published with Github pages.
 ![delete](./img/planner_delete.gif)
 ![move](./img/planner_move.gif)
 ![update](./img/planner_update.gif)
-
---
 
 ## Weather
 
