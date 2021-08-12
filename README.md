@@ -1,7 +1,7 @@
-<p align="left">
-  Hi 👋, I'm Martin Jonsson. <br>
-  A full stack developer from Sweden.
-</p>
+  <p>
+    Hi 👋, I'm Martin Jonsson. <br>
+    A full stack developer from Sweden.
+  </p>
 
 Down below are som of my public projects, more are added over time.
 
@@ -12,16 +12,16 @@ My <a href="https://drive.google.com/file/d/1ua7-e9ZdjRKdYUvICJpR7Ci5Dh9IeGjs/vi
 
 ## Skills
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40">
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+  <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </p>
 
 # Projects
 
@@ -41,10 +41,10 @@ Published with Github pages.
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 <br><br>
 
-![create](./img/planner_create.gif)
-![delete](./img/planner_delete.gif)
-![move](./img/planner_move.gif)
-![update](./img/planner_update.gif)
+![create](./planner_create.gif)
+![delete](./planner_delete.gif)
+![move](./planner_move.gif)
+![update](./planner_update.gif)
 
 ## Weather
 
@@ -64,4 +64,4 @@ Published with Github pages.
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 <br><br>
 
-![create](./img/weather.gif)
+![create](./weather.gif)
