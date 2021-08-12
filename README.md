@@ -25,6 +25,31 @@ My <a href="https://drive.google.com/file/d/1ua7-e9ZdjRKdYUvICJpR7Ci5Dh9IeGjs/vi
 
 ## Åre CMS
 
+A web app built for **Åre Chokladfabrik**
+<br>
+Planning, production, logistics, statistics and more.
+<br>
+Data hosted with <a href="supabase.io" target="_blank">Supabase</a>
+and MongoDB locally.
+<br>
+
+<p>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40">
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40">
+</p>
+<br><br>
+
+<p>
+<img src="./img/arecms/login.gif" alt="login" width="400">
+<img src="./img/arecms/maker.gif" alt="maker" width="400">
+<img src="./img/arecms/order.gif" alt="order" width="400">
+<img src="./img/arecms/pralinrum.gif" alt="pralinrum" width="400">
+<img src="./img/arecms/todo.gif" alt="todo" width="400">
+<img src="./img/arecms/users.gif" alt="users" width="400">
+</p>
+
 ## Planner
 
 A weekly drag and drop planner built for a client.
@@ -40,10 +65,10 @@ Published with Github pages.
 <br><br>
 
 <p>
-<img src="./planner_create.gif" alt="create" width="400">
-<img src="./planner_delete.gif" alt="delete" width="400">
-<img src="./planner_move.gif" alt="move" width="400">
-<img src="./planner_update.gif" alt="update" width="400">
+<img src="./img/planner_create.gif" alt="create" width="400">
+<img src="./img/planner_delete.gif" alt="delete" width="400">
+<img src="./img/planner_move.gif" alt="move" width="400">
+<img src="./img/planner_update.gif" alt="update" width="400">
 </p>
 
 ## Weather
@@ -65,5 +90,5 @@ Published with Github pages.
 <br><br>
 
 <p>
-  <img src="./weather.gif" alt="weather" width="400">
+  <img src="./img/weather.gif" alt="weather" width="400">
 </p>
