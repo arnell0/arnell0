@@ -12,6 +12,7 @@ My <a href="https://drive.google.com/file/d/1ua7-e9ZdjRKdYUvICJpR7Ci5Dh9IeGjs/vi
 
 ## Skills
 
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -20,6 +21,7 @@ My <a href="https://drive.google.com/file/d/1ua7-e9ZdjRKdYUvICJpR7Ci5Dh9IeGjs/vi
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 
 ---
 
