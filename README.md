@@ -1,14 +1,14 @@
-  <p>
-    Hi 👋, I'm Martin Jonsson. <br>
-    A full stack developer from Sweden.
-  </p>
+<p align="left">
+  Hi 👋, I'm Martin Jonsson. <br>
+  A full stack developer from Sweden.
+</p>
 
 Down below are som of my public projects, more are added over time.
 
 You can reach me at
 <a href="mailto:mailtojonsson@gmail.com" target="_blank"> LinkedIn </a> or by <a href="https://www.linkedin.com/in/martin-jonsson-a896461a3/" target="_blank"> email</a>.
 
-My <a href="https://drive.google.com/file/d/1ua7-e9ZdjRKdYUvICJpR7Ci5Dh9IeGjs/view?usp=sharing" target="_blank">Resume</a> and <a href="https://drive.google.com/drive/u/0/folders/1qwY_27pUvTSvHhH0OBf7pKr1jKkiP4Ru" target="_blank">Cover Letter</a> **in swedish**
+My <a href="https://drive.google.com/file/d/1ua7-e9ZdjRKdYUvICJpR7Ci5Dh9IeGjs/view?usp=sharing" target="blank">Resume</a> and <a href="https://drive.google.com/drive/u/0/folders/1qwY_27pUvTSvHhH0OBf7pKr1jKkiP4Ru" target="_blank">Cover Letter</a> **in swedish**
 
 ## Skills
 
@@ -41,10 +41,17 @@ Published with Github pages.
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 <br><br>
 
-![create](./planner_create.gif)
+<p>
+<img src="./planner_create.gif" alt="create" width="200">
+<img src="./planner_delete.gif" alt="delete" width="200">
+<img src="./planner_move.gif" alt="move" width="200">
+<img src="./planner_update.gif" alt="update" width="200">
+</p>
+
+<!-- ![create](./planner_create.gif)
 ![delete](./planner_delete.gif)
 ![move](./planner_move.gif)
-![update](./planner_update.gif)
+![update](./planner_update.gif) -->
 
 ## Weather
 
