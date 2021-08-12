@@ -1,27 +1,71 @@
-<h1 align="center">Hi 👋, I'm Martin Jonsson</h1>
-<h3 align="center">An allround developer from Sweden</h3>
-
-- 🔭 I’m currently working on a web app for Åre Chokladfabrik
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my public projects are available down below.
-
-- 📫 **mailtojonsson@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/martin-jonsson-a896461a3/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"           alt="arnell0" height="30" width="40" />
-  </a>
+  Hi 👋, I'm Martin Jonsson. <br>
+  A full stack developer from Sweden.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-          wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  
+Down below are som of my public projects, more are added over time.
+
+You can reach me at
+<a href="mailto:mailtojonsson@gmail.com" target="_blank"> LinkedIn </a> or by <a href="https://www.linkedin.com/in/martin-jonsson-a896461a3/" target="_blank"> email</a>.
+
+My <a href="https://drive.google.com/file/d/1ua7-e9ZdjRKdYUvICJpR7Ci5Dh9IeGjs/view?usp=sharing" target="_blank">Resume</a> and <a href="https://drive.google.com/drive/u/0/folders/1qwY_27pUvTSvHhH0OBf7pKr1jKkiP4Ru" target="_blank">Cover Letter</a> **in swedish**
+
+## Skills
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40">
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+
+---
+
+# Projects
+
+## Åre CMS
+
+--
+
+## Planner
+
+A weekly drag and drop planner built for a client.
+<br>
+Data hosted with <a href="supabase.io" target="_blank">Supabase</a>
+<br>
+Published with Github pages.
+<br>
+<a href="https://arnell0.github.io/planner" target="_blank">Live Demo</a>
+<br><br>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+<br><br>
+
+![create](./img/planner_create.gif)
+![delete](./img/planner_delete.gif)
+![move](./img/planner_move.gif)
+![update](./img/planner_update.gif)
+
+--
+
+## Weather
+
+A simple page for viewing the weather.
+<br>
+Data from freemium API <s>theRainery.com</s> **No longer active**
+<br>
+Icons from <a href="feathericons.com" target="_blank">Feather</a>
+<br>
+Data hosted with <a href="supabase.io" target="_blank">Supabase</a>
+<br>
+Published with Github pages.
+<br>
+<a href="https://arnell0.github.io/weather" target="_blank">Live Demo</a>
+<br><br>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+<br><br>
+
+![create](./img/weather.gif)
