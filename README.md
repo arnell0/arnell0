@@ -6,7 +6,6 @@ Down below are some of my public projects, more will be added over time.
 You can reach me at
 <a href="mailto:mailtojonsson@gmail.com" target="_blank"> LinkedIn </a> or by <a href="https://www.linkedin.com/in/martin-jonsson-a896461a3/" target="_blank"> email</a>.
 
-My <a href="https://drive.google.com/file/d/1ua7-e9ZdjRKdYUvICJpR7Ci5Dh9IeGjs/view?usp=sharing" target="_blank">Resume</a> and <a href="https://drive.google.com/drive/u/0/folders/1qwY_27pUvTSvHhH0OBf7pKr1jKkiP4Ru" target="_blank">Cover Letter</a> **in swedish**
 
 ## Skills
 
